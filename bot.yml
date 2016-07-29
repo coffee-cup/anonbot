@@ -1,0 +1,6 @@
+name: AnonBot
+description: Slack bot to anonymously post messages to you channel
+# avatar: resources/avatar.png
+# background: resources/background.png
+# slackscopes:
+#   - commands
